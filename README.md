@@ -2,7 +2,7 @@
 
 [কোর্স এর মুল পাতা](http://clojure.howtocode.com.bd/) | [HowToCode মূল সাইট](http://www.howtocode.com.bd/) | [সবার জন্য প্রোগ্রামিং ব্লগ](http://blog.howtocode.com.bd/) 
 
-# জাভাস্ক্রিপ্ট - সিমপ্লি দি বেস্ট
+# কোর্স টাইটেল - সিমপ্লি দি বেস্ট
 
 ### [লেখকের নাম](#)
 
