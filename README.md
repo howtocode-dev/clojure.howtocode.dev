@@ -1,9 +1,4 @@
-<iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fhowtocode.com.bd&amp;width&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=353725671441956" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:62px; margin-left:-15px;" allowTransparency="true"></iframe>
-
-[কোর্স এর মুল পাতা](http://clojure.howtocode.com.bd/) | [HowToCode মূল সাইট](http://www.howtocode.com.bd/) | [সবার জন্য প্রোগ্রামিং ব্লগ](http://blog.howtocode.com.bd/) 
-
-# কোর্স টাইটেল - সিমপ্লি দি বেস্ট
-
+#### বইয়ের নাম: ক্লোজার - একটি আধুনিক ফাংশনাল ল্যাঙ্গুয়েজ
 ### [লেখকের নাম](#)
 
 #### সংক্ষেপ
