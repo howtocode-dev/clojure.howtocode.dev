@@ -2,7 +2,7 @@
 ### [মাফিনার খান](http://code-shoily.tumblr.com)
 
 > Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot. 
-> -- <cite>Eric S Raymond [How to Become A Hacker](http://www.catb.org/esr/faqs/hacker-howto.html)</cite>
+>> -- <cite>[Eric S Raymond](http://en.wikipedia.org/wiki/Eric_S._Raymond) in [How to Become A Hacker](http://www.catb.org/esr/faqs/hacker-howto.html)</cite>
 
 #### স্বাগতম
 ১৯৫০ সালের দিকে কম্পিউটিং জগতে শুরু হয় একটি রেভলিউশন যাকে আমরা লিস্প হিসেবে চিনি। লিস্প বিষয়ক বক্তব্য খুঁজতে গেলে নাম পাওয়া যাবে নামী দামি সব প্রোগ্রামারদের। এডগার ডাইজক্সট্রা, পিটার নরভিগ, পল গ্রাহাম, অ্যাল্যান পারলিস, রিচারড স্টলম্যান তাঁদের মধ্যে উল্লেখযোগ্য। সেই অর্ধ শতাব্দী আগেই এটি নিয়ে আসে গারবেজ কালেকশন, ডি এস এল, ইন্টার‍্যাক্টিভ প্রোগ্রামিং, ডাইন্যামিক টাইপিং, ল্যাম্বডা ক্যালকুলাসের মত বিষয় যা মেইন্সট্রিমে আসে ২/৩ দশক পর। ফাংশনাল প্রোগ্রামিঙ্গের সম্ভ্রান্ত পরিবারের এই প্রোগ্রামিং ল্যাঙ্গুয়েজ বহু প্রোগ্রামারদের কৌশলকে করেছে নিপুণ ও এর দ্বারা প্রভাবিত হয়েছে বর্তমানের প্রায় সমস্ত ল্যাঙ্গুয়েজ। কিন্তু লিস্প নিজে কোন ল্যাঙ্গুয়েজ ঠিক না, বরং একটি ল্যাঙ্গুয়েজ পরিবার যা কিছু বিশেষত্ব বহন করে, আর প্রতি দশকে হয় এই পরিবারের কোন না কোন ল্যাঙ্গুয়েজের আবির্ভাব।
@@ -16,6 +16,9 @@
  
 #### বইটি পড়ার সবচেয়ে ভাল উপায়
 এই বইটি চারটি পর্বে বিভক্ত । আর প্রতিটি পর্বে রয়েছে কিছু চ্যাপ্টার। সবচেয়ে ভাল ফল পাবেন যদি ক্রমানুযায়ী চ্যাপ্টারগুলো পড়তে পারেন। প্রতিটি চ্যাপ্টার অবজেক্টিভ ও মোটিভেশন দিয়ে শুরু হবে টপিক স্পেসিফিক আলোচনা শেষে প্র্যাক্টিকাল উদাহরণ দিয়ে শেষ হবে। প্রতিটি কোড ওপেন সোর্স থাকবে (তা তো বটেই)। 
+
+> "Lisp is a language for doing what you've been told is impossible."
+>> -— <cite>[Kent Pitman](http://en.wikipedia.org/wiki/Kent_Pitman)</cite>
 
 #### ওপেন সোর্স
 
