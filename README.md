@@ -18,7 +18,7 @@
 এই বইটি চারটি পর্বে বিভক্ত । আর প্রতিটি পর্বে রয়েছে কিছু চ্যাপ্টার। সবচেয়ে ভাল ফল পাবেন যদি ক্রমানুযায়ী চ্যাপ্টারগুলো পড়তে পারেন। প্রতিটি চ্যাপ্টার অবজেক্টিভ ও মোটিভেশন দিয়ে শুরু হবে টপিক স্পেসিফিক আলোচনা শেষে প্র্যাক্টিকাল উদাহরণ দিয়ে শেষ হবে। প্রতিটি কোড ওপেন সোর্স থাকবে (তা তো বটেই)। 
 
 > "Lisp is a language for doing what you've been told is impossible."
->> -— <cite>[Kent Pitman](http://en.wikipedia.org/wiki/Kent_Pitman)</cite>
+>> -- <cite>[Kent Pitman](http://en.wikipedia.org/wiki/Kent_Pitman)</cite>
 
 #### ওপেন সোর্স
 
