@@ -1,5 +1,7 @@
-# ক্লোজার - একটি আধুনিক ফাংশনাল ল্যাঙ্গুয়েজ
-### [মাফিনার খান](http://code-shoily.tumblr.com)
+# ক্লোজার - একটি আধুনিক ফাংশনাল ল্যাঙ্গুয়েজ   
+
+<iframe scrolling="auto" frameborder="0" style="border:none; overflow:hidden; height:170px; width:100%; margin-left: 15;" allowTransparency="true" src="http://api.howtocode.com.bd/contrib/clojure"></iframe> 
+
 
 > Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot. 
 >> -- <cite>[Eric S Raymond](http://en.wikipedia.org/wiki/Eric_S._Raymond) in [How to Become A Hacker](http://www.catb.org/esr/faqs/hacker-howto.html)</cite>
