@@ -1,9 +1,4 @@
-# ক্লোজার - একটি আধুনিক ফাংশনাল ল্যাঙ্গুয়েজ   
-
-<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fhowtocode.com.bd%2F&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId=353725671441956" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>  
-
-
-  
+<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fhowtocode.com.bd%2F&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId=353725671441956" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>   
 
 **স্বয়ংক্রিয় কন্ট্রিবিউটরের তালিকা**  
 (প্রথম ৫ জন)  
@@ -11,9 +6,8 @@
 
 
 > Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot. 
->> -- <cite>[Eric S Raymond](http://en.wikipedia.org/wiki/Eric_S._Raymond) in [How to Become A Hacker](http://www.catb.org/esr/faqs/hacker-howto.html)</cite>
+>> -- <cite>[Eric S Raymond](http://en.wikipedia.org/wiki/Eric_S._Raymond) in [How to Become A Hacker](http://www.catb.org/esr/faqs/hacker-howto.html)</cite>   
 
-#### স্বাগতম
 ১৯৫০ সালের দিকে কম্পিউটিং জগতে শুরু হয় একটি রেভলিউশন যাকে আমরা লিস্প হিসেবে চিনি। লিস্প বিষয়ক বক্তব্য খুঁজতে গেলে নাম পাওয়া যাবে নামী দামি সব প্রোগ্রামারদের। এডগার ডাইজক্সট্রা, পিটার নরভিগ, পল গ্রাহাম, অ্যাল্যান পারলিস, রিচারড স্টলম্যান তাঁদের মধ্যে উল্লেখযোগ্য। সেই অর্ধ শতাব্দী আগেই এটি নিয়ে আসে গারবেজ কালেকশন, ডি এস এল, ইন্টার‍্যাক্টিভ প্রোগ্রামিং, ডাইন্যামিক টাইপিং, ল্যাম্বডা ক্যালকুলাসের মত বিষয় যা মেইন্সট্রিমে আসে ২/৩ দশক পর। ফাংশনাল প্রোগ্রামিঙ্গের সম্ভ্রান্ত পরিবারের এই প্রোগ্রামিং ল্যাঙ্গুয়েজ বহু প্রোগ্রামারদের কৌশলকে করেছে নিপুণ ও এর দ্বারা প্রভাবিত হয়েছে বর্তমানের প্রায় সমস্ত ল্যাঙ্গুয়েজ। কিন্তু লিস্প নিজে কোন ল্যাঙ্গুয়েজ ঠিক না, বরং একটি ল্যাঙ্গুয়েজ পরিবার যা কিছু বিশেষত্ব বহন করে, আর প্রতি দশকে হয় এই পরিবারের কোন না কোন ল্যাঙ্গুয়েজের আবির্ভাব।
 
 আসুন মাল্টীকোরের এই যুগে, যেখানে কঙ্কারেন্সি, থ্রেডিং ও রিয়েল টাইম হয়ে উঠেছে প্রোগ্রামিঙের বহুল আলোচিত টপিক, আর সেই অর্ধ শতাব্দীর আগেকার সেই ফাংশনাল প্রোগ্রামিংকে ভাবা হচ্ছে এই কঙ্কারেন্সি সমস্যা মোকাবেলা করার বাহন। ঠিক এই সময়ে হল সেই লিস্পের আধুনিকতম পুনর্জন্ম ক্লোজারের মধ্য দিয়ে। ক্লোজার লিস্পের সকল শক্তিকে উত্তরাধিকারসূত্রে পেয়েছে আর তার সাথে যুক্ত করেছে জাভা প্ল্যাটফরমের প্র্যাক্টিকালিটিকে । আর ফাংশনাল প্রোগ্রামিং তো রয়েছেই যা আপনার চিন্তাধারা ও কোডশিলতাকে করবে বৈচিত্র্যময়, উন্নততর। আর জাভার বিপুল ভাণ্ডার থাকছে আপনার ফরমায়েশ খাটার জন্য। কঙ্কারেন্সি, থ্রেডিং, প্যারালেলিজম, ফাংশনাল প্রোগ্রামিং, মেটা প্রোগ্রামিং আসবে আপনার হাতের নাগালে আর তাও খুব কম সময়ে যদি আপনি ক্লোজারকে আত্মস্থ করতে পারেন। গ্যারান্টি সহকারে বলা যায়, আপনি যেই ল্যাঙ্গুয়েজের প্রোগ্রামারই হন না কেন, ক্লোজার ও এর প্রোগ্রামিং স্টাইল আপনার স্কিলকে করবে আরও তীক্ষ্ণ। 
